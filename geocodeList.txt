@@ -1,0 +1,395 @@
+{
+  _id: 52289832,
+  location: 'Kapolei',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52289832'
+},
+{
+  _id: 52266146,
+  location: 'Kaneohe',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52266146'
+},
+{
+  _id: 52319373,
+  location: 'Ewa Beach',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52319373'
+},{
+  _id: 52275640,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52275640'
+},{
+  _id: 52311830,
+  location: 'Ewa Beach',
+  s3imgUrl: 'https://phung-stuff.s3.us-west-1.amazonaws.com/52311830.jpg'
+},{
+  _id: 52058657,
+  location: 'Ewa Beach',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52058657'
+},{
+  _id: 52225041,
+  location: 'Kapolei',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52225041'
+},{
+  _id: 52240075,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52240075'
+},{
+  _id: 32676189,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/32676189'
+},{
+  _id: 32755589,
+  location: 'Kaneohe',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/32755589'
+},{
+  _id: 52218702,
+  location: 'Ewa Beach',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52218702'
+},{
+  _id: 41860882,
+  location: 'Kapolei',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/41860882'
+},{
+  _id: 33010820,
+  location: 'Kailua',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/33010820'
+},{
+  _id: 52184183,
+  location: 'Ewa Beach',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52184183'
+},{
+  _id: 43140730,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/43140730'
+},{
+  _id: 50866211,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/50866211'
+},{
+  _id: 51907681,
+  location: 'Mililani',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/51907681'
+},{
+  _id: 43475091,
+  location: 'Waimanalo',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/43475091'
+},{
+  _id: 32827667,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/32827667'
+},{
+  _id: 39726130,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/39726130'
+},{
+  _id: 52335062,
+  location: 'Waianae',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52335062'
+},{
+  _id: 52345218,
+  location: 'Aiea',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52345218'
+},{
+  _id: 36444210,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/36444210'
+},{
+  _id: 40745569,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/40745569'
+},{
+  _id: 52275424,
+  location: 'Kailua',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52275424'
+},{
+  _id: 51797116,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/51797116'
+},{
+  _id: 52232289,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52232289'
+},{
+  _id: 52217240,
+  location: 'Ewa Beach',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52217240'
+},{
+  _id: 52275791,
+  location: 'Haleiwa',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52275791'
+},{
+  _id: 49685869,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/49685869'
+},{
+  _id: 52275830,
+  location: 'Waianae',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52275830'
+},{
+  _id: 52136605,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52136605'
+},{
+  _id: 42052483,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/42052483'
+},{
+  _id: 48410284,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/48410284'
+},{
+  _id: 43644330,
+  location: 'Waianae',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/43644330'
+},{
+  _id: 52174437,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52174437'
+},{
+  _id: 51597413,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/51597413'
+},{
+  _id: 52204306,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52204306'
+},{
+  _id: 52322891,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52322891'
+},{
+  _id: 41004201,
+  location: 'Kailua',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/41004201'
+},{
+  _id: 52359570,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52359570'
+},{
+  _id: 52368158,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52368158'
+},{
+  _id: 52269016,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52269016'
+},{
+  _id: 52315141,
+  location: 'Waianae',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52315141'
+},{
+  _id: 52262198,
+  location: 'Kailua',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52262198'
+},{
+  _id: 52236865,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52236865'
+},{
+  _id: 52306080,
+  location: 'Waialua',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52306080'
+},{
+  _id: 34541084,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/34541084'
+},{
+  _id: 36551598,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/36551598'
+},{
+  _id: 52210746,
+  location: 'Kaneohe',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52210746'
+},{
+  _id: 52204238,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52204238'
+},{
+  _id: 51521772,
+  location: 'Mililani',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/51521772'
+},{
+  _id: 52115207,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52115207'
+},{
+  _id: 51789833,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/51789833'
+},{
+  _id: 51792990,
+  location: 'Kaneohe',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/51792990'
+},{
+  _id: 32836874,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/32836874'
+},{
+  _id: 32693456,
+  location: 'Ewa Beach',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/32693456'
+},{
+  _id: 32673661,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/32673661'
+},{
+  _id: 51833230,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.us-west-1.amazonaws.com/51833230'
+},{
+  _id: 52330863,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.us-west-1.amazonaws.com/52330863.jpg'
+},{
+  _id: 49754399,
+  location: 'Kaneohe',
+  s3imgUrl: 'https://phung-stuff.s3.us-west-1.amazonaws.com/49754399'
+},{
+  _id: 52367778,
+  location: 'Waipahu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52367778'
+},{
+  _id: 52152718,
+  location: 'Haleiwa',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52152718'
+},{
+  _id: 52371295,
+  location: 'Kaneohe',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52371295'
+},{
+  _id: 52235759,
+  location: 'Mililani',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52235759'
+},{
+  _id: 52232231,
+  location: 'Kaneohe',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52232231'
+},{
+  _id: 52244842,
+  location: 'Kaneohe',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52244842'
+},{
+  _id: 52178748,
+  location: 'Waimanalo',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52178748'
+},{
+  _id: 52108101,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52108101'
+},{
+  _id: 43534058,
+  location: 'Kaneohe',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/43534058'
+},{
+  _id: 51952882,
+  location: 'Mililani',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/51952882'
+},{
+  _id: 49147231,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/49147231'
+},{
+  _id: 32444155,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.us-west-1.amazonaws.com/32444155'
+},{
+  _id: 43643174,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.us-west-1.amazonaws.com/43643174'
+},{
+  _id: 42121580,
+  location: 'Waipahu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/42121580'
+},{
+  _id: 46365482,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/46365482'
+},{
+  _id: 52331177,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52331177'
+},{
+  _id: 52343597,
+  location: 'Ewa Beach',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52343597'
+},{
+  _id: 52353019,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52353019'
+},{
+  _id: 50376729,
+  location: 'Mililani',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/50376729'
+},{
+  _id: 33662302,
+  location: 'Haleiwa',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/33662302'
+},{
+  _id: 52358767,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52358767'
+},{
+  _id: 52398257,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52398257'
+},{
+  _id: 52402045,
+  location: 'Ewa Beach',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52402045'
+},{
+  _id: 52400956,
+  location: 'Waianae',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52400956'
+},{
+  _id: 52401926,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52401926'
+},{
+  _id: 52397494,
+  location: 'Kailua',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52397494'
+},{
+  _id: 52401923,
+  location: 'Wahiawa',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52401923'
+},{
+  _id: 32268381,
+  location: 'Ewa Beach',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/32268381'
+},{
+  _id: 52315115,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52315115'
+},{
+  _id: 49625271,
+  location: 'Waianae',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/49625271'
+},{
+  _id: 49710133,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/49710133'
+},{
+  _id: 52055067,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52055067'
+},{
+  _id: 44876273,
+  location: 'Kaneohe',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/44876273'
+},{
+  _id: 51923067,
+  location: 'Aiea',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/51923067'
+},{
+  _id: 52402078,
+  location: 'Waipahu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52402078'
+},{
+  _id: 52410082,
+  location: 'Waipahu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/52410082'
+},{
+  _id: 32768928,
+  location: 'Honolulu',
+  s3imgUrl: 'https://phung-stuff.s3.amazonaws.com/32768928'
+}
